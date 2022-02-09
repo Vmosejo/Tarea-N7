@@ -78,6 +78,9 @@ El inductor 2 tiene tres cuartos de la inductancia del inductor 1.
 ![image](https://user-images.githubusercontent.com/93681159/153113145-7c85e47f-5376-404f-a863-8045414f5458.png)
 
 #### 35. Determine IL2 en la figura 13-52.
+
+![image](https://user-images.githubusercontent.com/93681159/153113280-4174dc8c-d089-4431-81e0-e81b7404dfb4.png)
+
 ## 3.EJERCICIOS
 
 ## 4.VIDEO
