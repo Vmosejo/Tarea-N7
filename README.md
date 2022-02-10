@@ -52,8 +52,14 @@ El inductor 2 tiene tres cuartos de la inductancia del inductor 1.
 #### 21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor:
 
 ![image](https://user-images.githubusercontent.com/93681159/153112571-054d2c86-c365-4f3b-acd0-6b7eedd52fae.png)
+![image](https://user-images.githubusercontent.com/93681159/153440564-f87a8bcf-1466-4bf1-aed1-4a73fda1a7fe.png)
+
 
 #### 23. Repita el problema 21 para los siguientes instantes:
+
+![image](https://user-images.githubusercontent.com/93681159/153112571-054d2c86-c365-4f3b-acd0-6b7eedd52fae.png)
+![image](https://user-images.githubusercontent.com/93681159/153440814-496b8681-0a43-4454-9510-0c97752e472a.png)
+
 #### 25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
 
 ![image](https://user-images.githubusercontent.com/93681159/153112592-0316e7a2-a2ea-4695-83d8-98f01e4f0c94.png)
