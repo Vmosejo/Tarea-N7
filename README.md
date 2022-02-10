@@ -81,6 +81,7 @@ El inductor 2 tiene tres cuartos de la inductancia del inductor 1.
 
 #### 33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con un voltaje de entrada rms de 10 V?
 
+![image](https://user-images.githubusercontent.com/93681159/153113201-6f1b5894-2269-4194-8dbf-b721f4f01525.png)
 ![image](https://user-images.githubusercontent.com/93681159/153113145-7c85e47f-5376-404f-a863-8045414f5458.png)
 
 #### 35. Determine IL2 en la figura 13-52.
