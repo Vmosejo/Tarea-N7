@@ -5,6 +5,7 @@
 ### 1.2 Especificos
 
 ## 2.MARCO TEÓRICO (RESUMEN)
+## 3.EJERCICIOS
 ### CAPITULO 13. INDUCTORES
 #### SECCIÓN 13–1 El inductor básico
 #### 1.	Convierta los siguientes valores en milihenries:
@@ -89,7 +90,55 @@ El inductor 2 tiene tres cuartos de la inductancia del inductor 1.
 
 ![image](https://user-images.githubusercontent.com/93681159/153113280-4174dc8c-d089-4431-81e0-e81b7404dfb4.png)
 
-## 3.EJERCICIOS
+### CAPITULO 14. TRANSFORMADORES
+#### SECCIÓN 14.1 Inductancia mutua
+#### 1.¿Cuál es la inductancia mutua cuando k=0.75, L1=1 uH, y L2=4 uH?
+
+#### SECCIÓN 14.2 El transformador básico
+#### 3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario?¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+#### 5.Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
+![image](https://user-images.githubusercontent.com/93666408/153516590-015acd7c-8526-4bd1-826c-d3c3ebfc522b.png)
+
+#### SECCIÓN 14.3 Transformadores elevadores y reductores
+#### 7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
+#### 9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+#### 11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+#### 13. Determine las lecturas de medidor no especificadas en la figura 14-44.
+![image](https://user-images.githubusercontent.com/93666408/153517295-2800dd23-779e-4fe3-b20c-ab03f65f74d9.png)
+
+#### SECCIÓN 14.4 Carga del devanado secundario
+#### 15. Determine las siguientes cantidades en la figura 14-46.
+#### (a) Corriente primaria (b) Corriente secundaria
+#### (c) Voltaje secundario (d) Potencia en la carga
+![image](https://user-images.githubusercontent.com/93666408/153517398-9c56fbf0-4ddd-4401-93b3-0c59dc5822d6.png)
+
+#### SECCIÓN 14.5 Carga reflejada
+#### 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 ohmios en el circuito primario?
+![image](https://user-images.githubusercontent.com/93666408/153517493-f7036e34-ac63-4197-a43c-08113a8fef58.png)
+
+#### SECCIÓN 14.6 Igualación de impedancia
+#### 19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 ohmios?
+![image](https://user-images.githubusercontent.com/93666408/153517603-6a1fa18b-3f08-445e-bdd7-7eda7d699760.png)
+
+#### SECCIÓN 14.7 Características de un transformador no ideal
+#### 21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 Wen las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+#### 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+#### 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
+
+#### SECCIÓN 14.8 Transformadores con tomas y devanados múltiples
+#### 27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+![image](https://user-images.githubusercontent.com/93666408/153517862-474decf7-e012-4838-975b-2c484705b8fb.png)
+
+#### 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
+![image](https://user-images.githubusercontent.com/93666408/153517921-bc792dfc-e819-415d-8deb-a7b9e0864530.png)
+
+#### 31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
+#### (a) Todos los voltajes y corrientes presentes en la carga
+#### (b) La resistencia reflejada en el primario
+![image](https://user-images.githubusercontent.com/93666408/153518017-a57e5542-7e62-4054-8ca8-fd60c5bf5e74.png)
+
+#### SECCIÓN 14.9 Localización de fallas
+#### 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
 ## 4.VIDEO
 
