@@ -94,23 +94,61 @@ El inductor 2 tiene tres cuartos de la inductancia del inductor 1.
 #### SECCIÓN 14.1 Inductancia mutua
 #### 1.¿Cuál es la inductancia mutua cuando k=0.75, L1=1 uH, y L2=4 uH?
 
+![image](https://user-images.githubusercontent.com/93666408/153527510-1af5dfc2-b29b-41fd-84b9-41e7e2b68328.png)
+
+
 #### SECCIÓN 14.2 El transformador básico
 #### 3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario?¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+![image](https://user-images.githubusercontent.com/93666408/153527617-05daddbb-1375-490b-972e-bd615ef2235b.png)
+
 #### 5.Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
 ![image](https://user-images.githubusercontent.com/93666408/153516590-015acd7c-8526-4bd1-826c-d3c3ebfc522b.png)
+* Respuesta:
+
+(a) 00 V rms; en fase
+
+(b) 100 V rms; desfasado
+
+(c) 20 V rms; desfasado
 
 #### SECCIÓN 14.3 Transformadores elevadores y reductores
 #### 7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
+
+![image](https://user-images.githubusercontent.com/93666408/153528135-3405a28d-b1f3-42ea-b701-4b961d49f155.png)
+
 #### 9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+![image](https://user-images.githubusercontent.com/93666408/153528384-caf956a8-69b4-4631-b727-6457330d0a76.png)
+
 #### 11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+Vsec = nVpri
+6V = 0.1xVpri
+Vpri = 6V/0.1
+Respuesta:
+Vpri = 60V
+
 #### 13. Determine las lecturas de medidor no especificadas en la figura 14-44.
 ![image](https://user-images.githubusercontent.com/93666408/153517295-2800dd23-779e-4fe3-b20c-ab03f65f74d9.png)
+
+Respuesta:
+
+(a) Vsec = nVpri
+Vsec = (1/10)100
+
+### (a) = 10V
+
+(b) Vsec = nVpri
+12 = (1/20)Vpri
+Vpri = 12x20
+
+### (b) = 240V
 
 #### SECCIÓN 14.4 Carga del devanado secundario
 #### 15. Determine las siguientes cantidades en la figura 14-46.
 #### (a) Corriente primaria (b) Corriente secundaria
 #### (c) Voltaje secundario (d) Potencia en la carga
 ![image](https://user-images.githubusercontent.com/93666408/153517398-9c56fbf0-4ddd-4401-93b3-0c59dc5822d6.png)
+
 
 #### SECCIÓN 14.5 Carga reflejada
 #### 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 ohmios en el circuito primario?
