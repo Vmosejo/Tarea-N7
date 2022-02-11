@@ -153,35 +153,93 @@ Vpri = 12x20
 #### (c) Voltaje secundario (d) Potencia en la carga
 ![image](https://user-images.githubusercontent.com/93666408/153517398-9c56fbf0-4ddd-4401-93b3-0c59dc5822d6.png)
 
+![image](https://user-images.githubusercontent.com/93666408/153533268-9fd5de91-dfec-4472-b73b-705c0e1299ab.png)
+
+![image](https://user-images.githubusercontent.com/93666408/153533334-fb0f803f-d865-435a-95bf-3a7a72fc3c49.png)
 
 #### SECCIÓN 14.5 Carga reflejada
 #### 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 ohmios en el circuito primario?
 ![image](https://user-images.githubusercontent.com/93666408/153517493-f7036e34-ac63-4197-a43c-08113a8fef58.png)
+![image](https://user-images.githubusercontent.com/93666408/153533894-70e46340-6324-499d-8c76-cfcc760c393c.png)
+
 
 #### SECCIÓN 14.6 Igualación de impedancia
 #### 19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 ohmios?
 ![image](https://user-images.githubusercontent.com/93666408/153517603-6a1fa18b-3f08-445e-bdd7-7eda7d699760.png)
+![image](https://user-images.githubusercontent.com/93666408/153534119-a06cc1ab-e517-450d-912a-ee80d8866ce6.png)
+
 
 #### SECCIÓN 14.7 Características de un transformador no ideal
 #### 21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 Wen las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+
+P_salida=P_entrada-5.5 W
+
+P_salida=100W-5.5 W
+
+P_sal=94.5 W
+
 #### 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+
+k=(100%-2%)/(100%)
+
+k=0.98
+
 #### 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
+
+![image](https://user-images.githubusercontent.com/93666408/153534617-ee3f77c1-af7a-4ed4-b788-acace465d5ce.png)
 
 #### SECCIÓN 14.8 Transformadores con tomas y devanados múltiples
 #### 27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 ![image](https://user-images.githubusercontent.com/93666408/153517862-474decf7-e012-4838-975b-2c484705b8fb.png)
 
+![image](https://user-images.githubusercontent.com/93666408/153535231-bcb66d53-9582-40ed-acab-2a0f934c562f.png)
+
+
 #### 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
 ![image](https://user-images.githubusercontent.com/93666408/153517921-bc792dfc-e819-415d-8deb-a7b9e0864530.png)
+![image](https://user-images.githubusercontent.com/93666408/153535731-1e768de4-7182-425c-8624-7b7a5e685fe7.png)
+
 
 #### 31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
 #### (a) Todos los voltajes y corrientes presentes en la carga
 #### (b) La resistencia reflejada en el primario
 ![image](https://user-images.githubusercontent.com/93666408/153518017-a57e5542-7e62-4054-8ca8-fd60c5bf5e74.png)
+#### (a) Todos los voltajes y corrientes presentes en la carga
+
+Vs/Vp = Ns/Np
+
+Vs=n*Vp
+
+Vs=(700/1200)*60 = 35v
+
+VRL=35v
+
+I=V/R = 35/12 = 2.91A
+
+IRL=2,92A
+
+Vc=n*Vp
+
+Vs=(300/1200)*60
+
+Vc=15v
+
+Ic=15/10
+
+Ic=1.5A
+
+#### (b) La resistencia reflejada en el primario
+
+Rp=(1/n)^2Rl
+
+Pp = (1/0.58)^212
+
+R=34.5
 
 #### SECCIÓN 14.9 Localización de fallas
 #### 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
+R: Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el transformador a menos que se proteja el primario con un fusible.
 ## 4.VIDEO
 
 ## 5.CONCLUSIONES 
