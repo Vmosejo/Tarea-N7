@@ -80,6 +80,7 @@ El inductor 2 tiene tres cuartos de la inductancia del inductor 1.
 #### 29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5τ y se abre. ¿Cuál es la corriente en el inductor 1.0 μs después de que se abre el interruptor?
 
 ![image](https://user-images.githubusercontent.com/93681159/153112637-e1ec2445-72f4-478c-86dc-d1ee7cd0b510.png)
+![image](https://user-images.githubusercontent.com/93681159/153600790-e5019f4e-0b34-459e-b330-e41c5f17fada.png)
 
 #### SECCIÓN 13–5 Inductores en circuitos de ca
 #### 31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.
@@ -95,6 +96,7 @@ El inductor 2 tiene tres cuartos de la inductancia del inductor 1.
 #### 35. Determine IL2 en la figura 13-52.
 
 ![image](https://user-images.githubusercontent.com/93681159/153113280-4174dc8c-d089-4431-81e0-e81b7404dfb4.png)
+![image](https://user-images.githubusercontent.com/93681159/153600717-956ac227-896b-4f11-9402-552789d390af.png)
 
 ### CAPITULO 14. TRANSFORMADORES
 #### SECCIÓN 14.1 Inductancia mutua
