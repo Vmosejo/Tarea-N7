@@ -264,8 +264,10 @@ R=34.5
 
 R: Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el transformador a menos que se proteja el primario con un fusible.
 ## 4.VIDEO
-
+https://www.youtube.com/watch?v=NI85-Crow7c
 ## 5.CONCLUSIONES 
-
+* Se practico el concepto y el uso de los inductores, asi mismo el analisis de circuitos mas complejos de los diferentes tipos de transformadores.
+* Se amplio el concepto de analisis por computadora estableciendo relaciones entre estos valores en base a los ejercicios con los que se trabajo en este deber. 
+* Se cumplio con los objetivos propuestos para este trabajo, y se desea que este reporte sea de provecho para aquellos las personas que necesiten desarrollar el tema en encuestión.
 ## 6.BIBLIOGRAFÍA
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
