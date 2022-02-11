@@ -2,7 +2,13 @@
 ## 1.OBJETIVOS
 ### 1.1  General
 
+Analizar los temas sobre inductores y transformadores correspondientes a los capítulos 13 y 14 del libro de Floyd "Principios de Circuitos Eléctricos".
+
 ### 1.2 Especificos
+
+* Conocer las caracteristicas principales que posee un inductor y su uso.
+* Comprender la correcta utilización de un transformador y a la vez reconocer sus componentes.
+* Resolver los ejercicios de los capítulos mencionados,aplicando las definiciones y métodos aprendidos.
 
 ## 2.MARCO TEÓRICO (RESUMEN)
 ## 3.EJERCICIOS
@@ -208,18 +214,25 @@ k=0.98
 #### (a) Todos los voltajes y corrientes presentes en la carga
 
 Vs/Vp = Ns/Np
+
 Vs=n*Vp
+
 Vs=(700/1200)*60 = 35v
+
 VRL=35v
 
 I=V/R = 35/12 = 2.91A
+
 IRL=2,92A
 
 Vc=n*Vp
+
 Vs=(300/1200)*60
+
 Vc=15v
 
 Ic=15/10
+
 Ic=1.5A
 
 #### (b) La resistencia reflejada en el primario
