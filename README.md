@@ -166,6 +166,7 @@ Vpri = 12x20
 #### SECCIÓN 14.6 Igualación de impedancia
 #### 19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 ohmios?
 ![image](https://user-images.githubusercontent.com/93666408/153517603-6a1fa18b-3f08-445e-bdd7-7eda7d699760.png)
+
 ![image](https://user-images.githubusercontent.com/93666408/153534119-a06cc1ab-e517-450d-912a-ee80d8866ce6.png)
 
 
@@ -207,25 +208,18 @@ k=0.98
 #### (a) Todos los voltajes y corrientes presentes en la carga
 
 Vs/Vp = Ns/Np
-
 Vs=n*Vp
-
 Vs=(700/1200)*60 = 35v
-
 VRL=35v
 
 I=V/R = 35/12 = 2.91A
-
 IRL=2,92A
 
 Vc=n*Vp
-
 Vs=(300/1200)*60
-
 Vc=15v
 
 Ic=15/10
-
 Ic=1.5A
 
 #### (b) La resistencia reflejada en el primario
