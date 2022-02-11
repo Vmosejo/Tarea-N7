@@ -12,12 +12,18 @@ Analizar los temas sobre inductores y transformadores correspondientes a los cap
 
 ## 2.MARCO TEÓRICO (RESUMEN)
 ### CAPITULO 13. INDUCTORES
+#### ¿Que es un inductor?
 ![1](https://user-images.githubusercontent.com/93893919/153601114-00298997-6c61-4a70-824c-492593b17201.png)
+#### Caracteristicas.
 ![2](https://user-images.githubusercontent.com/93893919/153601119-c726a816-127b-40ab-b89d-29431e807c06.png)
+#### Leyes.
 ![3](https://user-images.githubusercontent.com/93893919/153601121-a6bf3d1a-e1c7-4c09-ae8a-18a4414077a0.png)
+#### Tipos. 
 ![4](https://user-images.githubusercontent.com/93893919/153601123-00323984-7c48-42c0-addb-7ac7efe7fa12.png)
 ### CAPITULO 14. TRANSFORMADORES
+#### ¿Que es un Transformador?
 ![5](https://user-images.githubusercontent.com/93893919/153601161-df2426da-8c5b-4c44-a910-47bf0ab11b27.png)
+#### Tipos de tranbsformadores.
 ![6](https://user-images.githubusercontent.com/93893919/153601167-9f614896-7c68-4fb8-ba0d-e37c3fcf2895.png)
 ## 3.EJERCICIOS
 ### CAPITULO 13. INDUCTORES
